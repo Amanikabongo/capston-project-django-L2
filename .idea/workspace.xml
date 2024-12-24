@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e4ad66f-8a3a-4e43-a482-a4ce15a23b65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rockstarsite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/.buildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/.buildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/.doctrees/environment.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/.doctrees/index.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/index.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/alabaster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/documentation_options.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/documentation_options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/github-banner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/pygments.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/pygments.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/sphinx_highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_static/sphinx_highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/genindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/objects.inv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitattributes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="grazie_rule" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Amanikabongo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Amanikabongo/rockstarsite&quot;,
+    &quot;accountId&quot;: &quot;6d5a4d26-192d-4097-ac34-0e171097915a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pcisrLXzZpp8nRzoyiFoyevPyd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/amans/capston-project-django-L2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amans\rockstarsite\rockstarsite\static\images" />
+      <recent name="C:\Users\amans\rockstarsite\band\templates\registration" />
+      <recent name="C:\Users\amans\rockstarsite\band\templates\band" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e4ad66f-8a3a-4e43-a482-a4ce15a23b65" name="Changes" comment="" />
+      <created>1733071974860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733071974860</updated>
+    </task>
+    <servers />
+  </component>
+</project>
