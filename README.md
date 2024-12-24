@@ -47,6 +47,15 @@ Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
+## Create and Activate a Virtual Environment
+
+Create and activate a virtual environment:
+
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
 
 
 
