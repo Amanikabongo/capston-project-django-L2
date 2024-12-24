@@ -2,6 +2,19 @@
 
 Welcome to the RockstarSite Django project. this project is considered as a fictional band of musicians it include functions such as ticket sales, login page, registration, band members events and so on . This guide provides step-by-step instructions to access and run the project locally. It includes adding necessary files, initializing Git, creating branches, documenting code, generating user-friendly documentation, containerizing the app, and pushing it to a remote repository.
 
+## Link to my repository: https://github.com/Amanikabongo/capston-project-django-L2
+## Link to my Docker hub repository : https://hub.docker.com/r/amani101/rockstarsite
+## Run this code on docker Playground
+# Create a new instance run the following Pull command:
+```sh
+docker pull amani101/rockstarsite
+```
+# Next use this Run commmand to view the image
+```sh
+docker run -it amani101/rockstarsite:latest
+```
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
