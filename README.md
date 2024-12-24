@@ -1,6 +1,6 @@
 # RockstarSite
 
-Welcome to the RockstarSite Django project! this project is considered as fictional band of musicians it include functions such as ticket sales, login page, registration, band members events and so onn . This guide provides step-by-step instructions to access and run the project locally. It includes adding necessary files, initializing Git, creating branches, documenting code, generating user-friendly documentation, containerizing the app, and pushing it to a remote repository.
+Welcome to the RockstarSite Django project. this project is considered as a fictional band of musicians it include functions such as ticket sales, login page, registration, band members events and so on . This guide provides step-by-step instructions to access and run the project locally. It includes adding necessary files, initializing Git, creating branches, documenting code, generating user-friendly documentation, containerizing the app, and pushing it to a remote repository.
 
 ## Table of Contents
 
