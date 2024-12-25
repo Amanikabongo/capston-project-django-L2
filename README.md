@@ -2,19 +2,6 @@
 
 Welcome to the RockstarSite Django project. this project is considered as a fictional band of musicians it include functions such as ticket sales, login page, registration, band members events and so on . This guide provides step-by-step instructions to access and run the project locally. It includes adding necessary files, initializing Git, creating branches, documenting code, generating user-friendly documentation, containerizing the app, and pushing it to a remote repository.
 
-## Link to my repository: https://github.com/Amanikabongo/capston-project-django-L2
-## Link to my Docker hub repository : https://hub.docker.com/r/amani101/rockstarsite
-## Run this code on docker Playground
-# Create a new instance run the following Pull command:
-```sh
-docker pull amani101/rockstarsite
-```
-# Next use this Run commmand to view the image
-```sh
-docker run -it amani101/rockstarsite:latest
-```
-
-
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -48,7 +35,7 @@ Ensure you have the following installed:
 
 ## Setup and Installation
 
-### Clone the Repository
+# Clone the Repository
 
 Clone the repository to your local machine:
 
@@ -75,7 +62,7 @@ pip install -r requirements.txt
 git int
 ```
 ### Add a .gitignore File
-## Create a .gitignore file in the root directory to exclude generated files:
+# Create a .gitignore file in the root directory to exclude generated files:
 ```sh
 *.pyc
 __pycache__/
@@ -109,7 +96,7 @@ git commit -m "Add docstrings to models.py"
 ```
 ## Generate Documentation with Sphinx
 Set up Sphinx and generate user-friendly documentation:
-#Install Sphinx:
+# Install Sphinx:
 ```sh
 pip install sphinx
 ```
@@ -118,7 +105,7 @@ pip install sphinx
 sphinx-quickstart docs
 ```
 ## Configure conf.py:
-Add the following to conf.py:
+# Add the following to conf.py:
 ```sh
 import os
 import sys
@@ -155,22 +142,30 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Run the Django app
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 ```
-## Add and commit the Dockerfile:
+# Add and commit the Dockerfile:
 ```sh
 git add Dockerfile
 git commit -m "Add Dockerfile"
 ```
 ## Merging and Finalizing
-## Merge Branches
+# Merge Branches
 Switch to the main branch and merge the docs and container branches:
 ```sh
 git checkout main
 git merge docs
 git merge container
 ```
-
-
-
+## Link to my repository: https://github.com/Amanikabongo/capston-project-django-L2
+## Link to my Docker hub repository : https://hub.docker.com/r/amani101/rockstarsite
+## Run this code on docker Playground
+# Create a new instance run the following Pull command:
+```sh
+docker pull amani101/rockstarsite
+```
+# Run commmand to view the image
+```sh
+docker run -it amani101/rockstarsite:latest
+```
 
 
 
